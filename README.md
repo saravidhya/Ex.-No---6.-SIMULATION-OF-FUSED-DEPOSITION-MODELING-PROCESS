@@ -26,7 +26,7 @@
 ![Screenshot 2024-01-03 011330](https://github.com/saravidhya/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/87062069/4a3ce123-c26f-4af4-987d-9e3f2a0f5603)
 
 
-### Name:  vidhiya lakshimi.S
+### Name:  vidhiya lakshmi.S
 ### Register Number: 23012308
 
 ## Result:
